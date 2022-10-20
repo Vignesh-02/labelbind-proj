@@ -1,0 +1,8 @@
+1. xwind/babel file doesn't install
+Soln : remove js files from pages
+and remove .babelsrc from main folder
+
+2. can't resolve '@heroicons/react/outlune'
+
+import {} from '@heroicons/react/24/outline'
+24 or 20 are the original sizes of icon as specified on heroicons site
